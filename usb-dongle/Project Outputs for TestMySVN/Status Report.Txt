@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 16:07:28 On 22.07.2014
+Start Output Generation At 09:15:44 On 23.09.2014
 
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [Production of usb-dongle] of PCB Document [usb-dongle.PcbDoc]
-   Generated File[usb-dongle(Production of usb-dongle).step]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Production of usb-dongle] of Project [usb-dongle.PrjPcb]
+   Generated File[Bill of Materials-usb-dongle(Production of usb-dongle).xls]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:07:33 On 22.07.2014
+Finished Output Generation At 09:15:49 On 23.09.2014
