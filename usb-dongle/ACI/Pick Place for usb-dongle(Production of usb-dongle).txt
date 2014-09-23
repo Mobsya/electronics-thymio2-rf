@@ -1,0 +1,31 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAPC1005X05L      -334.646mil    326.772mil   -334.646mil    326.772mil   -334.646mil    307.087mil  T         90.00 2.2uF          
+C2         CAPC1005X05L          -806mil        -96mil       -806mil        -96mil       -806mil   -115.685mil  T         90.00 1uF            
+C3         CAPC1608X08L          -931mil        -28mil       -931mil        -28mil   -960.528mil        -28mil  T        360.00 1uF            
+C4         CAPC1005X05L          -459mil        322mil       -459mil        322mil       -459mil    302.315mil  T         90.00 1uF            
+C5         CAPC1005X05L          -586mil         42mil       -586mil         42mil   -566.315mil         42mil  T        180.00 100nF          
+C6         CAPC1005X05L       -303.15mil    326.772mil    -303.15mil    326.772mil    -303.15mil    307.087mil  T         90.00 100nF          
+C7         CAPC1005X05L          -201mil        219mil       -201mil        219mil   -220.685mil        219mil  T        360.00 220pF          
+C8         CAPC1005X05L          -201mil        187mil       -201mil        187mil   -220.685mil        187mil  T          0.00 100nF          
+C9         CAPC1005X05L          -166mil         77mil       -166mil         77mil   -185.685mil         77mil  T          0.00 100nF          
+C10        CAPC1005X05L          -278mil        -23mil       -278mil        -23mil       -278mil     -3.315mil  T        270.00 100nF          
+C12        CAPC1005X05L          -494mil        322mil       -494mil        322mil       -494mil    302.315mil  T         90.00 1uF            
+C13        CAPC1005X05L          -591mil        158mil       -591mil        158mil   -571.315mil        158mil  T        180.00 10pF           
+C14        CAPC1005X05L          -234mil        -67mil       -234mil        -67mil   -214.315mil        -67mil  T        180.00 10pF           
+C15        CAPC1005X05L          -150mil       -120mil       -150mil       -120mil       -150mil   -100.315mil  T        270.00 10pF           
+C16        CAPC1005X05L          -936mil        101mil       -936mil        101mil   -916.315mil        101mil  T        180.00 47pF           
+C17        CAPC1005X05L          -936mil         69mil       -936mil         69mil   -916.315mil         69mil  T        180.00 47pF           
+D1         DIOC1608X08N          -590mil        340mil       -590mil        340mil   -621.496mil        340mil  T          0.00 19-21SURC/S530-A3/TR8
+R1         RESC1005X04L          -936mil        165mil       -936mil        165mil   -955.685mil        165mil  T          0.00 1K5            
+R2         RESC1005X04L          -936mil         37mil       -936mil         37mil   -916.315mil         37mil  T        180.00 33             
+R3         RESC1005X04L          -254mil        271mil       -254mil        271mil   -234.315mil        271mil  T        180.00 56K            
+R4         RESC1005X04L          -587mil         -5mil       -587mil         -5mil   -567.315mil         -5mil  T        180.00 56K            
+R5         RESC1005X04L          -936mil        133mil       -936mil        133mil   -916.315mil        133mil  T        180.00 33             
+R6         RESC1005X04L          -679mil        341mil       -679mil        341mil   -698.685mil        341mil  T        360.00 1K             
+U1         QFN65P200X200X80-6N   -890.307mil    -96.591mil   -890.307mil    -96.591mil       -847mil   -122.181mil  T         90.00 TPS781330220DRVR
+U2         QFN50P600X600X100-40L-2   -393.701mil    129.921mil   -393.701mil    129.921mil   -510.827mil    218.504mil  T        360.00 CC2531F256RHAR 
+U3         LFB182G45BG2D280        -71mil        130mil        -71mil        130mil    -51.315mil    145.748mil  T          0.00 LFB182G45BG2D280
+X1         Abracon-ABM11     -209.591mil   -118.685mil       -184mil        -99mil   -235.181mil    -138.37mil  T        360.00 ABM11-32.000MHZ-B7G-T
+X3         1001-011-01101   -1122.047mil     74.803mil  -1177.165mil     74.803mil  -1066.929mil    -62.992mil  T         90.00 1001-011-01101 
+
