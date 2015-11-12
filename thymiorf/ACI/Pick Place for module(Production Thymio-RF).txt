@@ -1,26 +1,26 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-C1         CAPC1005X05L        296.26mil    254.921mil     296.26mil    254.921mil     296.26mil    274.606mil  T        270.00 2.2uF          
-C2         CAPC1005X05L        76.772mil    267.716mil     76.772mil    267.716mil     96.457mil    267.716mil  T        180.00 1uF            
-C3         CAPC1005X05L        87.598mil    108.268mil     87.598mil    108.268mil    107.283mil    108.268mil  T        180.00 1uF 6V         
-C4         CAPC1005X05L       356.299mil        250mil    356.299mil        250mil    375.984mil        250mil  T        180.00 1uF            
-C5         CAPC1005X05L           389mil        129mil        389mil        129mil    408.685mil        129mil  T        180.00 100nF          
-C6         CAPC1005X05L       757.874mil     256.89mil    757.874mil     256.89mil    738.189mil     256.89mil  T        360.00 100nF          
-C7         CAPC1005X05L       757.874mil    225.394mil    757.874mil    225.394mil    738.189mil    225.394mil  T        360.00 220pF          
-C8         CAPC1005X05L       757.874mil    193.898mil    757.874mil    193.898mil    738.189mil    193.898mil  T        360.00 100nF          
-C9         CAPC1005X05L       742.126mil    106.299mil    742.126mil    106.299mil    722.441mil    106.299mil  T          0.00 100nF          
-C10        CAPC1005X05L       745.079mil      53.15mil    745.079mil      53.15mil    725.394mil      53.15mil  T        360.00 100nF          
-C12        CAPC1005X05L       355.315mil    219.488mil    355.315mil    219.488mil        375mil    219.488mil  T        180.00 1uF            
-C13        CAPC1005X05L        796.26mil     45.276mil     796.26mil     45.276mil     796.26mil     64.961mil  T        270.00 10pF           
-C14        CAPC1005X05L       917.323mil    101.378mil    917.323mil    101.378mil    897.638mil    101.378mil  T        360.00 10pF           
-P1         MHDR2X3            191.339mil    187.205mil    166.339mil    237.205mil    166.339mil    237.205mil  T        270.00 MHDR2X3        
-P2         HDR1X4H             207.48mil     58.071mil      57.48mil     58.071mil      57.48mil     58.071mil  T        360.00 Header 4H      
-R3         RESC1005X04L       707.677mil    270.669mil    707.677mil    270.669mil    707.677mil    290.354mil  T        270.00 56K            
-R4         RESC1005X04L           258mil        228mil        258mil        228mil        258mil    208.315mil  T         90.00 56K            
-R5         RESC1005X04L        21.654mil    247.047mil     21.654mil    247.047mil     21.654mil    266.732mil  T        270.00 150            
-U1         QFN65P200X200X80-6N     79.724mil    180.118mil     79.724mil    180.118mil    105.315mil    223.425mil  T        180.00 TPS781330220DRVR
-U2         QFN50P600X600X100-40L-2    562.008mil    156.496mil    562.008mil    156.496mil    444.882mil    245.079mil  T          0.00 CC2533F96RHA   
-U3         LFB182G45BG2D280    820.866mil     157.48mil    820.866mil     157.48mil    840.551mil    173.228mil  T        360.00 LFB182G45BG2D280
-X1         Abracon-ABM11      871.063mil     47.244mil    896.654mil     66.929mil    845.472mil     27.559mil  T        360.00 ABM11-32.000MHZ-B7G-T
 D2         Led-side            74.803mil    559.055mil     74.803mil    559.055mil     37.402mil    559.055mil  T          0.00 27-21SURC/S530-A3
+X1         Abracon-ABM11      871.063mil     47.244mil    896.654mil     66.929mil    845.472mil     27.559mil  T        360.00 ABM11-32.000MHZ-B7G-T
+U3         LFB182G45BG2D280    820.866mil     157.48mil    820.866mil     157.48mil    840.551mil    173.228mil  T        360.00 LFB182G45BG2D280
+U2         QFN50P600X600X100-40L-2    562.008mil    156.496mil    562.008mil    156.496mil    444.882mil    245.079mil  T          0.00 CC2533F96RHA   
+U1         QFN65P200X200X80-6N     79.724mil    180.118mil     79.724mil    180.118mil    105.315mil    223.425mil  T        180.00 TPS781330220DRVR
+R5         RESC1005X04L        21.654mil    247.047mil     21.654mil    247.047mil     21.654mil    266.732mil  T        270.00 150            
+R4         RESC1005X04L           258mil        228mil        258mil        228mil        258mil    208.315mil  T         90.00 56K            
+R3         RESC1005X04L       707.677mil    270.669mil    707.677mil    270.669mil    707.677mil    290.354mil  T        270.00 56K            
+P2         HDR1X4H             207.48mil     58.071mil      57.48mil     58.071mil      57.48mil     58.071mil  T        360.00 Header 4H      
+P1         MHDR2X3            191.339mil    187.205mil    166.339mil    237.205mil    166.339mil    237.205mil  T        270.00 MHDR2X3        
+C14        CAPC1005X05L       917.323mil    101.378mil    917.323mil    101.378mil    897.638mil    101.378mil  T        360.00 10pF           
+C13        CAPC1005X05L        796.26mil     45.276mil     796.26mil     45.276mil     796.26mil     64.961mil  T        270.00 10pF           
+C12        CAPC1005X05L       355.315mil    219.488mil    355.315mil    219.488mil        375mil    219.488mil  T        180.00 1uF            
+C10        CAPC1005X05L       745.079mil      53.15mil    745.079mil      53.15mil    725.394mil      53.15mil  T        360.00 100nF          
+C9         CAPC1005X05L       742.126mil    106.299mil    742.126mil    106.299mil    722.441mil    106.299mil  T          0.00 100nF          
+C8         CAPC1005X05L       757.874mil    193.898mil    757.874mil    193.898mil    738.189mil    193.898mil  T        360.00 100nF          
+C7         CAPC1005X05L       757.874mil    225.394mil    757.874mil    225.394mil    738.189mil    225.394mil  T        360.00 220pF          
+C6         CAPC1005X05L       757.874mil     256.89mil    757.874mil     256.89mil    738.189mil     256.89mil  T        360.00 100nF          
+C5         CAPC1005X05L           389mil        129mil        389mil        129mil    408.685mil        129mil  T        180.00 100nF          
+C4         CAPC1005X05L       356.299mil        250mil    356.299mil        250mil    375.984mil        250mil  T        180.00 1uF            
+C3         CAPC1005X05L        87.598mil    108.268mil     87.598mil    108.268mil    107.283mil    108.268mil  T        180.00 1uF 6V         
+C2         CAPC1005X05L        76.772mil    267.716mil     76.772mil    267.716mil     96.457mil    267.716mil  T        180.00 1uF            
+C1         CAPC1005X05L        296.26mil    254.921mil     296.26mil    254.921mil     296.26mil    274.606mil  T        270.00 2.2uF          
 
